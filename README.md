@@ -18,7 +18,8 @@ Data Visualization -Added new data source and created relationship using date co
 •	Office_realestate_index from November 1979 to September 2020
 •	Consumer index from November 1979 to September 2020
 
-![Alt Text]([CPI vs HPI.jpg](https://github.com/Sarah-Data/LHL-Data-Visualization-and-Dashboards-with-Tableau/blob/main/CPI%20vs%20HPI.jpg))
+![Alt Text](CPI vs HPI.jpg)
+
 
 ## Challenges 
 Limitations for the weekly earnings file
