@@ -11,15 +11,12 @@ Data Analysis - Added new data source and created relationship using date column
 Data Visualization -Added new data source and created relationship using date column
 
 ## Results
-•	Weekly earnings from 1.1.2001 to 15.4.2015 (weekly_earnings - CSV)
-•	Housing constructions from 1955 to 2019 (real_estate_numbers - CSV)
-•	House prices from 1.1.2005 to 1.9.2020 (real_estate_prices - EXCEL)
-•	Housing_price_index from November 1979 to September 2020
-•	Office_realestate_index from November 1979 to September 2020
-•	Consumer index from November 1979 to September 2020
 
 ![Alt Text](https://github.com/Sarah-Data/LHL-Data-Visualization-and-Dashboards-with-Tableau/blob/main/CPI%20vs%20HPI.jpg)
 
+![Alt Text](https://github.com/Sarah-Data/LHL-Data-Visualization-and-Dashboards-with-Tableau/blob/main/House%20Price%20Trend.jpg)
+
+![Alt Text]( https://github.com/Sarah-Data/LHL-Data-Visualization-and-Dashboards-with-Tableau/blob/main/House%20Price%20vs%20Earnings%20Trend.jpg)
 
 ## Challenges 
 Limitations for the weekly earnings file
