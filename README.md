@@ -1,13 +1,13 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-Work with data from the Canadian Open Data portal using the following datasets and provide visualization on Tableau
-•	Weekly earnings from 1.1.2001 to 15.4.2015 (weekly_earnings - JSON)
-•	Housing constructions from 1955 to 2019 (real_estate_numbers - CSV)
-•	House prices from 1.1.2005 to 1.9.2020 (real_estate_prices - EXCEL)
-•	Housing_price_index from November 1979 to September 2020
-•	Office_realestate_index from November 1979 to September 2020
-•	Consumer index from November 1979 to September 2020
+Work with data from the Canadian Open Data portal using the following datasets and provide visualization on Tableau  
+•	Weekly earnings from 1.1.2001 to 15.4.2015 (weekly_earnings - JSON)  
+•	Housing constructions from 1955 to 2019 (real_estate_numbers - CSV)  
+•	House prices from 1.1.2005 to 1.9.2020 (real_estate_prices - EXCEL)  
+•	Housing_price_index from November 1979 to September 2020  
+•	Office_realestate_index from November 1979 to September 2020  
+•	Consumer index from November 1979 to September 2020  
 
 
 ## Process
